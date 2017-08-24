@@ -4,6 +4,9 @@ from pprint import pprint
 from random import randint
 import shutil
 
+import mojimoji
+
+
 POS = {
     "名詞": "固有一般",
     "その他自立語": "独立語",
@@ -36,6 +39,7 @@ POS = {
     "短縮よみ": "短縮読み",
     }
 
+
 def main():
     dic = {}
     with FileInput() as f:
@@ -43,11 +47,13 @@ def main():
             if "\t" not in line:
                 continue
             r = line.strip().split("\t")
-            if len(r) < 1:
+            if len(r) < 3:
                 continue
             if r[0][0] == '!':
                 continue
-            r[0] = r[0].replace('．', '・') # ピリオドは読みに設定できない
+            r[0] = mojimoji.han_to_zen(r[0])  # 半角文字は読みに設定できない
+            r[0] = r[0].replace('．', '・')  # ピリオドは読みに設定できない
+            r[0] = r[0].replace('ヴ', 'う゛')  # ピリオドは読みに設定できない
             r[2] = r[2].replace('*', '')
             keyword = r[0] + r[1]
             if keyword not in dic:
