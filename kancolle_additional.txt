@@ -84,4 +84,4 @@
 まっじょーれふらんちぇすこばらっか	Maggiore Francesco Baracca	固有一般	Guglielmo Marconi型潜水艦 6番艦
 まっじょーれふらんちぇすこばらっか	マッジョーレ・フランチェスコ・バラッカ	固有一般	Guglielmo Marconi型潜水艦 6番艦
 あーくろいやる	Ark Royal	固有一般	Ark Royal型航空母艦 1番艦
-あーくろいやる	アーク・ろいやる	固有一般	Ark Royal型航空母艦 1番艦
+あーくろいやる	アーク・ロイヤル	固有一般	Ark Royal型航空母艦 1番艦
