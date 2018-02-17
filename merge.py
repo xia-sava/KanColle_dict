@@ -3,6 +3,7 @@ from fileinput import FileInput
 from pprint import pprint
 from random import randint
 import shutil
+import unicodedata
 
 import mojimoji
 
@@ -29,6 +30,7 @@ POS = {
     "ば行五段": "バ行五段",
     "ま行五段": "マ行五段",
     "ら行五段": "ラ行五段",
+    "動詞ラ行五段": "ラ行五段",
     "姓名接頭語": "接頭語",
     "地名接頭語": "接頭語",
     "固有接頭語": "接頭語",
@@ -37,7 +39,9 @@ POS = {
     "固有接尾語": "接尾語",
     "慣用句": "独立語",
     "短縮よみ": "短縮読み",
-    }
+    "接尾一般": "接尾語",
+    "助数詞": "数詞",
+}
 
 
 def main():
@@ -51,9 +55,11 @@ def main():
                 continue
             if r[0][0] == '!':
                 continue
+            r[0] = unicodedata.normalize('NFC', r[0])  # Unicode 合字とか正規化する
             r[0] = mojimoji.han_to_zen(r[0])  # 半角文字は読みに設定できない
             r[0] = r[0].replace('．', '・')  # ピリオドは読みに設定できない
-            r[0] = r[0].replace('ヴ', 'う゛')  # ピリオドは読みに設定できない
+            r[0] = r[0].replace('ヴ', 'う゛')  # カタカナは読みに設定できない
+            r[0] = r[0].replace('\u3094', 'う゛')  # カタカナは読みに設定できない
             r[2] = r[2].replace('*', '')
             keyword = r[0] + r[1]
             if keyword not in dic:
