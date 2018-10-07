@@ -209,5 +209,5 @@
 しろっこ	シロッコ	固有一般	Maestrale型駆逐艦 4番艦
 ねるそん	Nelson	固有一般	Nelson型戦艦 1番艦
 ねるそん	ネルソン	固有一般	Nelson型戦艦 1番艦
-ねるそん	Rodney	固有一般	Nelson型戦艦 2番艦
-ねるそん	ロドニー	固有一般	Nelson型戦艦 2番艦
+ろどにー	Rodney	固有一般	Nelson型戦艦 2番艦
+ろどにー	ロドニー	固有一般	Nelson型戦艦 2番艦
