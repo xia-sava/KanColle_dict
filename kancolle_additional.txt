@@ -242,3 +242,17 @@
 うぇすとばーじにあ	West Virginia	固有一般	Colorado型戦艦 3番艦 BB-48
 うぇすとばーじにあ	ウェストバージニア	固有一般	Colorado型戦艦 3番艦 BB-48
 かいにぼ	改二戊	接尾一般
+!!
+!!  発動！「シングル作戦」 (2019年 夏)
+!!
+みくら	御蔵	固有一般	御蔵型 1番艦
+みやけ	三宅	固有一般	御蔵型 2番艦
+あわじ	淡路	固有一般	御蔵型 3番艦
+のうみ	能美	固有一般	御蔵型 4番艦
+くらはし	倉橋	固有一般	御蔵型 5番艦
+やしろ	屋代	固有一般	御蔵型 6番艦
+ちぶり	千振	固有一般	御蔵型 7番艦
+くさがき	草垣	固有一般	御蔵型 8番艦
+あぶるっつぃ	Abruzzi	固有一般	Luigi di Savoia Duca degli Abruzzi型軽巡洋艦 1番艦
+あぶるっつぃ	L.d.S.D.d.Abruzzi	固有一般	Luigi di Savoia Duca degli Abruzzi型軽巡洋艦 1番艦
+あぶるっつぃ	アブルッツィ	固有一般	Luigi di Savoia Duca degli Abruzzi型軽巡洋艦 1番艦
