@@ -256,3 +256,59 @@
 あぶるっつぃ	Abruzzi	固有一般	Luigi di Savoia Duca degli Abruzzi型軽巡洋艦 1番艦
 あぶるっつぃ	L.d.S.D.d.Abruzzi	固有一般	Luigi di Savoia Duca degli Abruzzi型軽巡洋艦 1番艦
 あぶるっつぃ	アブルッツィ	固有一般	Luigi di Savoia Duca degli Abruzzi型軽巡洋艦 1番艦
+!!
+!!  進撃！第二次作戦「南方作戦」 (2020年 冬)
+!!
+でろいてる	De Ruyter	固有一般	De Ruyter型軽巡洋艦
+でろいてる	デ・ロイテル	固有一般	De Ruyter型軽巡洋艦
+ぱーす	Perth	固有一般	Perth型軽巡洋艦 1番艦
+ぱーす	パース	固有一般	Perth型軽巡洋艦 1番艦
+ほばーと	Hobart	固有一般	Perth型軽巡洋艦 2番艦
+ほばーと	ホバート	固有一般	Perth型軽巡洋艦 2番艦
+しどにー	Sydney	固有一般	Perth型軽巡洋艦 3番艦
+しどにー	シドニー	固有一般	Perth型軽巡洋艦 3番艦
+りあんだー	Leander	固有一般	Leander型軽巡洋艦 1番艦
+りあんだー	リアンダー	固有一般	Leander型軽巡洋艦 1番艦
+あきりーず	Achilles	固有一般	Leander型軽巡洋艦 2番艦
+あきりーず	アキリーズ	固有一般	Leander型軽巡洋艦 2番艦
+ねぷちゅーん	Neptune	固有一般	Leander型軽巡洋艦 3番艦
+ねぷちゅーん	ネプチューン	固有一般	Leander型軽巡洋艦 3番艦
+おらいおん	Orion	固有一般	Leander型軽巡洋艦 4番艦
+おらいおん	オライオン	固有一般	Leander型軽巡洋艦 4番艦
+えいじゃっくす	Ajax	固有一般	Leander型軽巡洋艦 5番艦
+えいじゃっくす	エイジャックス	固有一般	Leander型軽巡洋艦 5番艦
+あんふぃおん	Amphion	固有一般	Leander型軽巡洋艦 6番艦
+あんふぃおん	アンフィオン	固有一般	Leander型軽巡洋艦 6番艦
+あぽろ	Apollo	固有一般	Leander型軽巡洋艦 7番艦
+あぽろ	アポロ	固有一般	Leander型軽巡洋艦 7番艦
+ふぇーとん	Phaeton	固有一般	Leander型軽巡洋艦 8番艦
+ふぇーとん	フェートン	固有一般	Leander型軽巡洋艦 8番艦
+のーさんぷとん	Northampton	固有一般	Northampton型重巡洋艦 1番艦 CA-26
+のーさんぷとん	ノーサンプトン	固有一般	Northampton型重巡洋艦 1番艦 CA-26
+ちぇすたー	Chester	固有一般	Northampton型重巡洋艦 2番艦 CA-27
+ちぇすたー	チェスター	固有一般	Northampton型重巡洋艦 2番艦 CA-27
+るいびる	Louisville	固有一般	Northampton型重巡洋艦 3番艦 CA-28
+るいびる	ルイビル	固有一般	Northampton型重巡洋艦 3番艦 CA-28
+しかご	Chicago	固有一般	Northampton型重巡洋艦 4番艦 CA-29
+しかご	シカゴ	固有一般	Northampton型重巡洋艦 4番艦 CA-29
+ひゅーすとん	Houston	固有一般	Northampton型重巡洋艦 5番艦 CA-30
+ひゅーすとん	ヒューストン	固有一般	Northampton型重巡洋艦 5番艦 CA-30
+おーがすた	Augusta	固有一般	Northampton型重巡洋艦 6番艦 CA-31
+おーがすた	オーガスタ	固有一般	Northampton型重巡洋艦 6番艦 CA-31
+しんしゅうまる	神州丸	固有一般	特種船第1号
+あとらんた	Atlanta	固有一般	Atlanta型軽巡洋艦 1番艦 CL-51
+あとらんた	アトランタ	固有一般	Atlanta型軽巡洋艦 1番艦 CL-51
+じゅのー	Juneau	固有一般	Atlanta型軽巡洋艦 2番艦 CL-52
+じゅのー	ジュノー	固有一般	Atlanta型軽巡洋艦 2番艦 CL-52
+さんでぃえご	San Diego	固有一般	Atlanta型軽巡洋艦 3番艦 CL-53
+さんでぃえご	サンディエゴ	固有一般	Atlanta型軽巡洋艦 3番艦 CL-53
+さんふぁん	San Juan	固有一般	Atlanta型軽巡洋艦 4番艦 CL-54
+さんふぁん	サンファン	固有一般	Atlanta型軽巡洋艦 4番艦 CL-54
+おーくらんど	Oakland	固有一般	Oakland型軽巡洋艦 1番艦 CL-95
+おーくらんど	オークランド	固有一般	Oakland型軽巡洋艦 1番艦 CL-95
+りの	Reno	固有一般	Oakland型軽巡洋艦 2番艦 CL-96
+りの	リノ	固有一般	Oakland型軽巡洋艦 2番艦 CL-96
+ふりんと	Flint	固有一般	Oakland型軽巡洋艦 3番艦 CL-97
+ふりんと	フリント	固有一般	Oakland型軽巡洋艦 3番艦 CL-97
+つーそん	Tucson	固有一般	Oakland型軽巡洋艦 4番艦 CL-98
+つーそん	ツーソン	固有一般	Oakland型軽巡洋艦 4番艦 CL-98
