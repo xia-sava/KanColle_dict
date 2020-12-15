@@ -369,3 +369,30 @@
 えんたーぷらいず	エンタープライズ	固有一般	Yorktown型航空母艦 2番艦 CV-6
 ほーねっと	Hornet	固有一般	Yorktown型航空母艦 3番艦 CV-8
 ほーねっと	ホーネット	固有一般	Yorktown型航空母艦 3番艦 CV-8
+!!
+!!  護衛せよ！船団輸送作戦 (2020年 晩秋～冬)
+!!
+にゅーきゃっする	Newcastle	固有一般	Town型軽巡洋艦 C76
+にゅーきゃっする	ニューキャッスル	固有一般	Town型軽巡洋艦 C76
+さうさんぷとん	Southampton	固有一般	Town型軽巡洋艦 C83
+さうさんぷとん	サウサンプトン	固有一般	Town型軽巡洋艦 C83
+しぇふぃーるど	Sheffield	固有一般	Town型軽巡洋艦 C24
+しぇふぃーるど	シェフィールド	固有一般	Town型軽巡洋艦 C24
+ぐらすごー	Glasgow	固有一般	Town型軽巡洋艦 C21
+ぐらすごー	グラスゴー	固有一般	Town型軽巡洋艦 C21
+ばーみんがむ	Birmingham	固有一般	Town型軽巡洋艦 C19
+ばーみんがむ	バーミンガム	固有一般	Town型軽巡洋艦 C19
+りばぷーる	Liverpool	固有一般	Town型軽巡洋艦 C11
+りばぷーる	リバプール	固有一般	Town型軽巡洋艦 C11
+まんちぇすたー	Manchester	固有一般	Town型軽巡洋艦 C15
+まんちぇすたー	マンチェスター	固有一般	Town型軽巡洋艦 C15
+ぐろすたー	Gloucester	固有一般	Town型軽巡洋艦 C62
+ぐろすたー	グロスター	固有一般	Town型軽巡洋艦 C62
+べるふぁすと	Belfast	固有一般	Town型軽巡洋艦 C35
+べるふぁすと	ベルファスト	固有一般	Town型軽巡洋艦 C35
+えじんばら	Edinburgh	固有一般	Town型軽巡洋艦 C16
+えじんばら	エジンバラ	固有一般	Town型軽巡洋艦 C16
+のーすかろらいな	North Carolina	固有一般	North Carolina型戦艦 2番艦 BB-55
+のーすかろらいな	ノースカロライナ	固有一般	North Carolina型戦艦 2番艦 BB-55
+わしんとん	Washington	固有一般	North Carolina型戦艦 2番艦 BB-56
+わしんとん	ワシントン	固有一般	North Carolina型戦艦 2番艦 BB-56
