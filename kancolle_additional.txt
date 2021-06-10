@@ -285,6 +285,8 @@
 ふぇーとん	フェートン	固有一般	Leander型軽巡洋艦 8番艦
 のーさんぷとん	Northampton	固有一般	Northampton型重巡洋艦 1番艦 CA-26
 のーさんぷとん	ノーサンプトン	固有一般	Northampton型重巡洋艦 1番艦 CA-26
+のーざんぷとん	Northampton	固有一般	Northampton型重巡洋艦 1番艦 CA-26
+のーざんぷとん	ノーザンプトン	固有一般	Northampton型重巡洋艦 1番艦 CA-26
 ちぇすたー	Chester	固有一般	Northampton型重巡洋艦 2番艦 CA-27
 ちぇすたー	チェスター	固有一般	Northampton型重巡洋艦 2番艦 CA-27
 るいびる	Louisville	固有一般	Northampton型重巡洋艦 3番艦 CA-28
@@ -396,3 +398,26 @@
 のーすかろらいな	ノースカロライナ	固有一般	North Carolina型戦艦 2番艦 BB-55
 わしんとん	Washington	固有一般	North Carolina型戦艦 2番艦 BB-56
 わしんとん	ワシントン	固有一般	North Carolina型戦艦 2番艦 BB-56
+!!
+!!  激突！ルンガ沖夜戦 (2021年 春)
+!!
+い201	伊201	固有一般	潜高型 1番艦
+い202	伊202	固有一般	潜高型 2番艦
+い203	伊203	固有一般	潜高型 3番艦
+い204	伊204	固有一般	潜高型 4番艦
+い205	伊205	固有一般	潜高型 5番艦
+そうや	宗谷	固有一般	耐氷型雑用運送艦 特務艦
+ぶるっくりん	ブルックリン	固有一般	Brooklyn型軽巡洋艦 1番艦 CL-40
+ぶるっくりん	Brooklyn	固有一般	Brooklyn型軽巡洋艦 1番艦 CL-40
+ふぃらでるふぃあ	フィラデルフィア	固有一般	Brooklyn型軽巡洋艦 2番艦 CL-41
+ふぃらでるふぃあ	Philadelphia	固有一般	Brooklyn型軽巡洋艦 2番艦 CL-41
+さばんな	サバンナ	固有一般	Brooklyn型軽巡洋艦 3番艦 CL-42
+さばんな	Savannah	固有一般	Brooklyn型軽巡洋艦 3番艦 CL-42
+なっしゅびる	ナッシュビル	固有一般	Brooklyn型軽巡洋艦 4番艦 CL-43
+なっしゅびる	Nashville	固有一般	Brooklyn型軽巡洋艦 4番艦 CL-43
+ふぇにっくす	フェニックス	固有一般	Brooklyn型軽巡洋艦 5番艦 CL-46
+ふぇにっくす	Phoenix	固有一般	Brooklyn型軽巡洋艦 5番艦 CL-46
+ぼいし	ボイシ	固有一般	Brooklyn型軽巡洋艦 6番艦 CL-47
+ぼいし	Boise	固有一般	Brooklyn型軽巡洋艦 6番艦 CL-47
+ほのるる	ホノルル	固有一般	Brooklyn型軽巡洋艦 7番艦 CL-48
+ほのるる	Honolulu	固有一般	Brooklyn型軽巡洋艦 7番艦 CL-48
