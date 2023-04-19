@@ -510,3 +510,24 @@
 さんじゃしんと	サン・ジャシント	固有一般	Independence型航空母艦 9番艦 CVL-30
 れんじゃー	Ranger	固有一般	Ranger型航空母艦 1番艦 CV-4
 れんじゃー	レンジャー	固有一般	Ranger型航空母艦 1番艦 CV-4
+!!
+!!  絶対防衛線！「小笠原兵団」救援 (2023年 初春・春)
+!!
+へいうっど	Heywood L.E.	固有一般	Fletcher型駆逐艦 DD-663
+へいうっど	ヘイウッド	固有一般	Fletcher型駆逐艦 DD-663
+くまのまる	熊野丸	固有一般	特種船M丙型
+たすかるーさ	Tascaloosa	固有一般	New Orleans型重巡洋艦 4番艦 CA-37
+たすかるーさ	タスカルーサ	固有一般	New Orleans型重巡洋艦 4番艦 CA-37
+にゅーおーりんず	New Orleans	固有一般	New Orleans型重巡洋艦 4番艦 CA-32
+にゅーおーりんず	ニューオーリンズ	固有一般	New Orleans型重巡洋艦 4番艦 CA-32
+あすとりあ	Astoria	固有一般	New Orleans型重巡洋艦 4番艦 CA-34
+あすとりあ	アストリア	固有一般	New Orleans型重巡洋艦 4番艦 CA-34
+みねあぽりす	Minneapolis	固有一般	New Orleans型重巡洋艦 4番艦 CA-36
+みねあぽりす	ミネアポリス	固有一般	New Orleans型重巡洋艦 4番艦 CA-36
+さんふらんしすこ	San Francisco	固有一般	New Orleans型重巡洋艦 4番艦 CA-38
+さんふらんしすこ	サンフランシスコ	固有一般	New Orleans型重巡洋艦 4番艦 CA-38
+くいんしー	Quincy	固有一般	New Orleans型重巡洋艦 4番艦 CA-39
+くいんしー	クインシー	固有一般	New Orleans型重巡洋艦 4番艦 CA-39
+う゛ぃんせんす	Vincennes	固有一般	New Orleans型重巡洋艦 4番艦 CA-44
+う゛ぃんせんす	ヴィンセンス	固有一般	New Orleans型重巡洋艦 4番艦 CA-44
+だいひゃくいちごうゆそうかん	第百一号輸送艦	固有一般	二等輸送艦 1番艦
