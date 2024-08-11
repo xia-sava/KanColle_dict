@@ -634,3 +634,30 @@
 へいあんまる	平安丸	固有一般	改氷川丸型 3番艦
 どらむ	Drum	固有一般	Gato型潜水艦 17番艦 SS-228
 どらむ	ドラム	固有一般	Gato型潜水艦 17番艦 SS-228
+!!
+!!  Operation Menace／新MO作戦 (2024年 夏)
+!!
+もがどーる	Mogador	固有一般	Mogador型駆逐艦 1番艦
+もがどーる	モガドール	固有一般	Mogador型駆逐艦 1番艦
+う゛ぉるた	Volta	固有一般	Mogador型駆逐艦 2番艦
+う゛ぉるた	ヴォルタ	固有一般	Mogador型駆逐艦 2番艦
+くいーんえりざべす	Queen Elizabeth	固有一般	Queen Elizabeth型戦艦 1番艦
+くいーんえりざべす	クイーンエリザベス	固有一般	Queen Elizabeth型戦艦 1番艦
+ばーらむ	Barham	固有一般	Queen Elizabeth型戦艦 3番艦
+ばーらむ	バーラム	固有一般	Queen Elizabeth型戦艦 3番艦
+う゛ぁりあんと	Valiant	固有一般	Queen Elizabeth型戦艦 4番艦
+う゛ぁりあんと	ヴァリアント	固有一般	Queen Elizabeth型戦艦 4番艦
+まれーや	Malaya	固有一般	Queen Elizabeth型戦艦 5番艦
+まれーや	マレーヤ	固有一般	Queen Elizabeth型戦艦 5番艦
+ら・がそりにえーる	La Galissonniere	固有一般	La Galissonniere型軽巡洋艦 1番艦
+ら・がそりにえーる	ラ・ガリソニエール	固有一般	La Galissonniere型軽巡洋艦 1番艦
+じゃん・ど・う゛ぃえんぬ	ジャン・ド・ヴィエンヌ	固有一般	La Galissonniere型軽巡洋艦 2番艦
+じゃん・ど・う゛ぃえんぬ	Jean de Vienne	固有一般	La Galissonniere型軽巡洋艦 2番艦
+じょるじゅ・れいぐ	ジョルジュ・レイグ	固有一般	La Galissonniere型軽巡洋艦 3番艦
+じょるじゅ・れいぐ	Georges Leygues	固有一般	La Galissonniere型軽巡洋艦 3番艦
+まるせいえーず	マルセイエーズ	固有一般	La Galissonniere型軽巡洋艦 4番艦
+まるせいえーず	Marseillaise	固有一般	La Galissonniere型軽巡洋艦 4番艦
+ぐろわーる	グロワール	固有一般	La Galissonniere型軽巡洋艦 5番艦
+ぐろわーる	Gloire	固有一般	La Galissonniere型軽巡洋艦 5番艦
+もんかるむ	モンカルム	固有一般	La Galissonniere型軽巡洋艦 6番艦
+もんかるむ	Montcalm	固有一般	La Galissonniere型軽巡洋艦 6番艦
