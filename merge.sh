@@ -11,5 +11,5 @@ iconv -f ucs-2 -t utf-8 KanColleDIC_rev64/*.txt > KanColleDIC_rev64.txt
 iconv -f cp932 -t utf-8 kancolle-dic-20171212/*.txt > kancolle-dic-20171212.txt
 
 
-python3 merge.py kancolle_additional.txt kancolle_correction.txt KanColleDIC_rev64.txt KanColleDic_203.txt kancolle-dic-20171212.txt KanColleDic_208_1.txt KanColleDic_208_2.txt KanColleDic_208_3.txt | iconv -f utf-8 -t utf-16le | perl -pe 'BEGIN{print"\xFF\xFE"}' > kancolle.txt
+python3 merge.py kancolle_additional.tsv kancolle_correction.txt KanColleDIC_rev64.txt KanColleDic_203.txt kancolle-dic-20171212.txt KanColleDic_208_1.txt KanColleDic_208_2.txt KanColleDic_208_3.txt | iconv -f utf-8 -t utf-16le | perl -pe 'BEGIN{print"\xFF\xFE"}' > kancolle.txt
 iconv -f utf-16le -t utf-8 kancolle.txt | grep -v '短縮読み' | grep -v '顔文字' | grep -v '人名' | iconv -f utf-8 -t utf-16le > kancolle_s.txt
