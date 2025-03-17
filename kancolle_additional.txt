@@ -518,18 +518,18 @@
 くまのまる	熊野丸	固有一般	特種船M丙型
 たすかるーさ	Tascaloosa	固有一般	New Orleans型重巡洋艦 4番艦 CA-37
 たすかるーさ	タスカルーサ	固有一般	New Orleans型重巡洋艦 4番艦 CA-37
-にゅーおーりんず	New Orleans	固有一般	New Orleans型重巡洋艦 4番艦 CA-32
-にゅーおーりんず	ニューオーリンズ	固有一般	New Orleans型重巡洋艦 4番艦 CA-32
-あすとりあ	Astoria	固有一般	New Orleans型重巡洋艦 4番艦 CA-34
-あすとりあ	アストリア	固有一般	New Orleans型重巡洋艦 4番艦 CA-34
-みねあぽりす	Minneapolis	固有一般	New Orleans型重巡洋艦 4番艦 CA-36
-みねあぽりす	ミネアポリス	固有一般	New Orleans型重巡洋艦 4番艦 CA-36
-さんふらんしすこ	San Francisco	固有一般	New Orleans型重巡洋艦 4番艦 CA-38
-さんふらんしすこ	サンフランシスコ	固有一般	New Orleans型重巡洋艦 4番艦 CA-38
-くいんしー	Quincy	固有一般	New Orleans型重巡洋艦 4番艦 CA-39
-くいんしー	クインシー	固有一般	New Orleans型重巡洋艦 4番艦 CA-39
-う゛ぃんせんす	Vincennes	固有一般	New Orleans型重巡洋艦 4番艦 CA-44
-う゛ぃんせんす	ヴィンセンス	固有一般	New Orleans型重巡洋艦 4番艦 CA-44
+にゅーおーりんず	New Orleans	固有一般	New Orleans型重巡洋艦 1番艦 CA-32
+にゅーおーりんず	ニューオーリンズ	固有一般	New Orleans型重巡洋艦 1番艦 CA-32
+あすとりあ	Astoria	固有一般	New Orleans型重巡洋艦 2番艦 CA-34
+あすとりあ	アストリア	固有一般	New Orleans型重巡洋艦 2番艦 CA-34
+みねあぽりす	Minneapolis	固有一般	New Orleans型重巡洋艦 3番艦 CA-36
+みねあぽりす	ミネアポリス	固有一般	New Orleans型重巡洋艦 3番艦 CA-36
+さんふらんしすこ	San Francisco	固有一般	New Orleans型重巡洋艦 5番艦 CA-38
+さんふらんしすこ	サンフランシスコ	固有一般	New Orleans型重巡洋艦 5番艦 CA-38
+くいんしー	Quincy	固有一般	New Orleans型重巡洋艦 6番艦 CA-39
+くいんしー	クインシー	固有一般	New Orleans型重巡洋艦 6番艦 CA-39
+う゛ぃんせんす	Vincennes	固有一般	New Orleans型重巡洋艦 7番艦 CA-44
+う゛ぃんせんす	ヴィンセンス	固有一般	New Orleans型重巡洋艦 7番艦 CA-44
 だいひゃくいちごうゆそうかん	第百一号輸送艦	固有一般	二等輸送艦 1番艦
 !!
 !!  船団護衛！輸送航路防衛戦／反攻上陸！ノルマンディー上陸作戦 (2023年 夏)
@@ -661,3 +661,6 @@
 ぐろわーる	Gloire	固有一般	La Galissonniere型軽巡洋艦 5番艦
 もんかるむ	モンカルム	固有一般	La Galissonniere型軽巡洋艦 6番艦
 もんかるむ	Montcalm	固有一般	La Galissonniere型軽巡洋艦 6番艦
+!!
+!!  北海道防衛作戦／第二次礼号作戦 (2025年 春)
+!!
